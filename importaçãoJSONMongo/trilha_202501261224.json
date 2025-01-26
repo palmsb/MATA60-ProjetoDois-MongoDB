@@ -1,0 +1,130 @@
+[
+	{
+		"_id" : 1,
+		"nome" : "Trilha Tres Barras",
+		"localizacao" : "Trilha da Cachoeira das Tres Barras",
+		"capacidade_max" : 22,
+		"duracao" : "04:00:00Z",
+		"nivel_dificuldade" : "Intermediário"
+	},
+	{
+		"_id" : 2,
+		"nome" : "Trilha Buracao",
+		"localizacao" : "Cachoeira do Buracao",
+		"capacidade_max" : 11,
+		"duracao" : "05:00:00Z",
+		"nivel_dificuldade" : "Intermediário"
+	},
+	{
+		"_id" : 3,
+		"nome" : "Trilha Pati",
+		"localizacao" : "Vale do Pati",
+		"capacidade_max" : 17,
+		"duracao" : "05:00:00Z",
+		"nivel_dificuldade" : "Leve"
+	},
+	{
+		"_id" : 4,
+		"nome" : "Trilha Cardoso",
+		"localizacao" : "Trilha da Cachoeira do Cardoso",
+		"capacidade_max" : 24,
+		"duracao" : "07:00:00Z",
+		"nivel_dificuldade" : "Leve"
+	},
+	{
+		"_id" : 5,
+		"nome" : "Trilha Siberia",
+		"localizacao" : "Trilha da Cachoeira da Siberia",
+		"capacidade_max" : 27,
+		"duracao" : "08:00:00Z",
+		"nivel_dificuldade" : "Intermediário"
+	},
+	{
+		"_id" : 6,
+		"nome" : "Trilha Barbado",
+		"localizacao" : "Trilha do Pico do Barbado",
+		"capacidade_max" : 10,
+		"duracao" : "04:00:00Z",
+		"nivel_dificuldade" : "Avançado"
+	},
+	{
+		"_id" : 7,
+		"nome" : "Trilha Mucugezinho",
+		"localizacao" : "Trilha do Rio Mucugezinho",
+		"capacidade_max" : 28,
+		"duracao" : "06:00:00Z",
+		"nivel_dificuldade" : "Intermediário"
+	},
+	{
+		"_id" : 8,
+		"nome" : "Trilha Pai Inacio",
+		"localizacao" : "Morro do Pai Inacio",
+		"capacidade_max" : 26,
+		"duracao" : "04:00:00Z",
+		"nivel_dificuldade" : "Intermediário"
+	},
+	{
+		"_id" : 9,
+		"nome" : "Trilha Roncadeira",
+		"localizacao" : "Trilha da Cachoeira da Roncadeira",
+		"capacidade_max" : 14,
+		"duracao" : "08:00:00Z",
+		"nivel_dificuldade" : "Intermediário"
+	},
+	{
+		"_id" : 10,
+		"nome" : "Trilha Fumaca",
+		"localizacao" : "Cachoeira da Fumaca",
+		"capacidade_max" : 15,
+		"duracao" : "05:00:00Z",
+		"nivel_dificuldade" : "Avançado"
+	},
+	{
+		"_id" : 11,
+		"nome" : "Trilha Poco do Diabo",
+		"localizacao" : "Trilha do Poco do Diabo",
+		"capacidade_max" : 24,
+		"duracao" : "07:00:00Z",
+		"nivel_dificuldade" : "Avançado"
+	},
+	{
+		"_id" : 12,
+		"nome" : "Trilha Poco Encantado",
+		"localizacao" : "Trilha do Poco Encantado",
+		"capacidade_max" : 15,
+		"duracao" : "07:00:00Z",
+		"nivel_dificuldade" : "Intermediário"
+	},
+	{
+		"_id" : 13,
+		"nome" : "Trilha Lapa Doce",
+		"localizacao" : "Trilha da Gruta da Lapa Doce",
+		"capacidade_max" : 21,
+		"duracao" : "05:00:00Z",
+		"nivel_dificuldade" : "Avançado"
+	},
+	{
+		"_id" : 15,
+		"nome" : "Trilha Pezinho",
+		"localizacao" : "Trilha do Pe Menor",
+		"capacidade_max" : 25,
+		"duracao" : "06:00:00Z",
+		"nivel_dificuldade" : "Leve"
+	},
+	{
+		"_id" : 14,
+		"nome" : "Trilha Fumacinha",
+		"localizacao" : "Trilha da Fumacinha",
+		"capacidade_max" : 2,
+		"duracao" : "06:00:00Z",
+		"nivel_dificuldade" : "Avançado"
+	},
+	{
+		"_id" : 21,
+		"nome" : "Trilha Cacho",
+		"localizacao" : "Trilha da Cachoeira",
+		"capacidade_max" : 20,
+		"duracao" : "04:00:00Z",
+		"nivel_dificuldade" : "Avançado"
+	}
+]

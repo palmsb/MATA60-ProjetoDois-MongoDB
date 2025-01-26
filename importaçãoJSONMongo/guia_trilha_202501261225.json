@@ -1,0 +1,102 @@
+ [
+	{
+		"id_guia" : 1,
+		"id_trilha" : 1
+	},
+	{
+		"id_guia" : 2,
+		"id_trilha" : 2
+	},
+	{
+		"id_guia" : 4,
+		"id_trilha" : 3
+	},
+	{
+		"id_guia" : 5,
+		"id_trilha" : 4
+	},
+	{
+		"id_guia" : 6,
+		"id_trilha" : 8
+	},
+	{
+		"id_guia" : 7,
+		"id_trilha" : 15
+	},
+	{
+		"id_guia" : 8,
+		"id_trilha" : 2
+	},
+	{
+		"id_guia" : 9,
+		"id_trilha" : 15
+	},
+	{
+		"id_guia" : 11,
+		"id_trilha" : 8
+	},
+	{
+		"id_guia" : 13,
+		"id_trilha" : 4
+	},
+	{
+		"id_guia" : 17,
+		"id_trilha" : 1
+	},
+	{
+		"id_guia" : 10,
+		"id_trilha" : 1
+	},
+	{
+		"id_guia" : 14,
+		"id_trilha" : 2
+	},
+	{
+		"id_guia" : 18,
+		"id_trilha" : 5
+	},
+	{
+		"id_guia" : 19,
+		"id_trilha" : 6
+	},
+	{
+		"id_guia" : 20,
+		"id_trilha" : 7
+	},
+	{
+		"id_guia" : 3,
+		"id_trilha" : 8
+	},
+	{
+		"id_guia" : 12,
+		"id_trilha" : 9
+	},
+	{
+		"id_guia" : 15,
+		"id_trilha" : 12
+	},
+	{
+		"id_guia" : 16,
+		"id_trilha" : 7
+	},
+	{
+		"id_guia" : 12,
+		"id_trilha" : 10
+	},
+	{
+		"id_guia" : 16,
+		"id_trilha" : 11
+	},
+	{
+		"id_guia" : 15,
+		"id_trilha" : 13
+	},
+	{
+		"id_guia" : 20,
+		"id_trilha" : 14
+	},
+	{
+		"id_guia" : 1,
+		"id_trilha" : 10
+	}
+]
