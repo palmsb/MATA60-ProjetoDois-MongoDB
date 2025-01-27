@@ -11,7 +11,7 @@ db.trilha.aggregate([
 
 
 // 2)Quantos visitantes únicos já fizeram reservas?
-db.reserva.distinct("id_visitante");
+db.reserva.distinct("id_visitante").length;
 
 
 // 3)Quais trilhas têm capacidade máxima maior que 20?

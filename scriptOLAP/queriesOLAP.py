@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 # Conectar ao MongoDB
 client = MongoClient("mongodb://localhost:27017/")
-db = client["Projetov2"]
+db = client["ProjetoDoisDemo"]
 
 # Consultas
 def trilha_capacidade_maxima_maior_10():
