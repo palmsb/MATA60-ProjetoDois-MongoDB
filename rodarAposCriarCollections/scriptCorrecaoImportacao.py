@@ -41,7 +41,7 @@ def atualizar_datas():
         try:
             # Tenta converter a data para um formato válido
             data_string = reserva["data"]
-            nova_data = datetime.strptime(data_string, "%Y-%m-%d")  # Ajuste o formato conforme necessário
+            nova_data = datetime.strptime(data_string, "%Y-%m-%d") 
             reserva_collection.update_one(
                 {"_id": reserva["_id"]},  # Localiza pelo ID
                 {"$set": {"data": nova_data}}  # Atualiza o campo `data` com o tipo Date
